@@ -1,0 +1,1 @@
+export { default as Arvore } from './ArvoreBinaria';
